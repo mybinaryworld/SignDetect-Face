@@ -13,3 +13,5 @@ Due to the huge size of the retrained mobilenet model, it couldn't be uploaded o
 <br>
 
 Rest of the write up will be available soon. 
+
+This project detects the number made by the hand and selects the corresponding region on the face
